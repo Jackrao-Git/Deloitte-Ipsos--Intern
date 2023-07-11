@@ -58,5 +58,5 @@ Model conclusion:
 
 ![image](https://github.com/Jackrao-Git/Deloitte-intern/assets/108682585/a66ea2df-acb6-432e-bb7e-19821b6897b1)
 
-Here are some sample screenshots from the report when I interned at Ipsos. This is a report made for Manulife-Sinochem.
+Here are some sample screenshots from the report when I interned at Ipsos. This is a report made for Manulife-Sinochem and I used a lot of visualizations in the report to express the point.
 

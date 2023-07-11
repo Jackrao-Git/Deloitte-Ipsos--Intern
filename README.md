@@ -48,8 +48,15 @@ Model conclusion:
 
 
 
+# Ipsos-intern
+
+![image](https://github.com/Jackrao-Git/Deloitte-intern/assets/108682585/1e22983c-ca22-438d-b410-dbde0ec9af45)
 
 
+![image](https://github.com/Jackrao-Git/Deloitte-intern/assets/108682585/5cfde469-a0ab-41e7-91bd-e41b3f759d54)
 
 
+![image](https://github.com/Jackrao-Git/Deloitte-intern/assets/108682585/a66ea2df-acb6-432e-bb7e-19821b6897b1)
+
+Here are some sample screenshots from the report when I interned at Ipsos. This is a report made for Manulife-Sinochem.
 

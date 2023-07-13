@@ -1,5 +1,8 @@
 # Deloitte & Ipsos Work
 
+Here are the works summary at both companies. 
+
+# Deloitte
 
 ## The effect of population on house prices of 70 large-medium cities in China
 In recent years, the trend of population growth has slowed down, and even began to show a negative growth momentum. In the context of China's rising concerns about "aging" and "population anxiety", the era of zero or even negative population growth is rapidly approaching. The likelihood of a labor crisis increases, with a smaller workforce meaning higher wages and slower economic growth.
@@ -58,5 +61,5 @@ Model conclusion:
 
 ![image](https://github.com/Jackrao-Git/Deloitte-intern/assets/108682585/a66ea2df-acb6-432e-bb7e-19821b6897b1)
 
-Here are some sample screenshots from the report when I interned at Ipsos. This is a report made for Manulife-Sinochem and I used a lot of visualizations in the report to express the point.
+Here are some sample screenshots from the report when I interned at Ipsos. This is a report made for Manulife-Sinochem and I used a lot of visualizations in the report to express the point. 
 

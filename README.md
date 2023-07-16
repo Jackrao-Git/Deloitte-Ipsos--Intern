@@ -4,7 +4,10 @@ Here are the works summary at both companies.
 
 # Deloitte
 
+## A main task was to investigate various variables' impact on the house prices. 
+
 ## The effect of population on house prices of 70 large-medium cities in China
+
 In recent years, the trend of population growth has slowed down, and even began to show a negative growth momentum. In the context of China's rising concerns about "aging" and "population anxiety", the era of zero or even negative population growth is rapidly approaching. The likelihood of a labor crisis increases, with a smaller workforce meaning higher wages and slower economic growth.
 
 Theoretically, a slowdown in population growth and a month-on-month decrease in the number of people will reduce the demand for real estate, thereby lowering housing prices. In fact, house prices have not been affected too much by the slowdown in population. It can be seen from the month-on-month data of house prices that house prices have shown a steady upward trend in recent years. Compared with the two factors of currency issuance and per capita income, population size is not a strong explanation for housing prices.
@@ -50,8 +53,9 @@ Model conclusion:
 
 
 
-
 # Ipsos-intern
+
+### For Manulife-Sinochem
 
 ![image](https://github.com/Jackrao-Git/Deloitte-intern/assets/108682585/1e22983c-ca22-438d-b410-dbde0ec9af45)
 
@@ -61,5 +65,14 @@ Model conclusion:
 
 ![image](https://github.com/Jackrao-Git/Deloitte-intern/assets/108682585/a66ea2df-acb6-432e-bb7e-19821b6897b1)
 
-Here are some sample screenshots from the report when I interned at Ipsos. This is a report made for Manulife-Sinochem and I used a lot of visualizations in the report to express the point. 
+During my internship at Ipsos, I had the opportunity to work on projects based in Beijing, resulting in reports primarily written in Chinese. One such report focused on assessing the performance of Manulife-Sinochem and providing recommendations for long-term strategies.
 
+
+### For Mlily
+<img width="790" alt="Screen Shot 2023-07-16 at 8 48 53 AM" src="https://github.com/Jackrao-Git/Deloitte-Ipsos--Intern/assets/108682585/16390f55-f2b7-4bdb-a55a-df62f1e52a3b">
+
+<img width="689" alt="Screen Shot 2023-07-16 at 8 49 05 AM" src="https://github.com/Jackrao-Git/Deloitte-Ipsos--Intern/assets/108682585/8d44ca2c-8499-47e1-8afd-e5e2e662b912">
+
+<img width="673" alt="Screen Shot 2023-07-16 at 8 52 45 AM" src="https://github.com/Jackrao-Git/Deloitte-Ipsos--Intern/assets/108682585/555483ae-4200-48dd-b70d-c6436fb0502e">
+
+This is an industry research report prepared for Mlily, a mattress brand. The report provides comprehensive information, including demographic data, competitor sales analysis, and regional brand deployment. Similar to the report created for Manulife-Sinochem, it incorporates various graphs and plots to effectively convey key points.
